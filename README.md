@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B5CF6&lines=Hi+I'm+Tiffany+✨;AI%2FML+Researcher;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=28&pause=1000&color=ffd6fc&vCenter=true&lines=Hi+I'm+Tiffany+✨;AI%2FML+Researcher;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ## About Me
 I'm a student at Johns Hopkins University studying applied math and computer science. I love working at the intersection of AI/ML and real-world impact. I'm also drawn to full-stack software engineering, with a growing interest in frontend UI/UX and product design. 
